@@ -1,2 +1,2 @@
-# eww_bar
-A custom eww bar for ArchLinux
+# eww_neon_bar
+A custom Neon eww bar for ArchLinux
